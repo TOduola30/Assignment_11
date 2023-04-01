@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+}
+body {
+  background-color: snow;
+}
+#h1_1 {
+  text-align: center;
+  margin-top: 3rem;
+  margin-bottom: -3rem;
+}
+.section_1 {
+  border: solid black;
+  margin-top: 5rem;
+  margin-left: 350px;
+  margin-right: 500px;
+  margin-bottom: 5rem;
+  background-color: black;
+}
+.tr_1 {
+  color: black;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: medium;
+}
+.flags_1 {
+  height: 13vh;
+  width: 6rem;
+}
